@@ -1,3 +1,5 @@
+## TODO: Add comments!
+
 from random import choices
 from os import system
 from time import sleep
